@@ -52,10 +52,15 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  # หากต้องการเพิ่ม assets ให้กับแอปพลิเคชันของคุณ ให้เพิ่มส่วน assets ดังนี้:
+  assets:
+    - assets/images/miyabi-zzz.png # ประกาศไฟล์เฉพาะ
 
   # To add assets to your application, add an assets section, like this:
   # assets:
