@@ -47,7 +47,7 @@ class MyHomePage extends StatelessWidget {
             Image.network('https://picsum.photos/seed/flutter/400/200'),
             const SizedBox(height: 30),
             Image.asset(
-              'assets/images/miyabi-za.jpg', // ใช้พาธ asset จริงของคุณ
+              'assets/images/miyabi-zzz.png', // ใช้พาธ asset จริงของคุณ
               height: 100.0,
               errorBuilder: (context, error, stackTrace) {
                 // แนวปฏิบัติที่ดีแม้สำหรับ assets, เผื่อกรณีพาธผิด
