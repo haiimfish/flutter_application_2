@@ -62,7 +62,6 @@ flutter:
   # หากต้องการเพิ่ม assets ให้กับแอปพลิเคชันของคุณ ให้เพิ่มส่วน assets ดังนี้:
   assets:
     - assets/images/miyabi-zzz.png # ประกาศไฟล์เฉพาะ
-    - assets/images/miyabi-za.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
